@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MathematicsConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "div 5 5"
+    }
+  }
+}
